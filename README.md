@@ -1,6 +1,6 @@
-# BigInt in C
+# BigInt in C++
 
-### An Big integer library written in C
+### An Big integer library written in C++
 
 _This project is a work under progress_
 
